@@ -1,0 +1,13 @@
+﻿  account.c
+C:\Users\masoud\Desktop\School\IPC-Workshops-master\IPC-Project-master\A2\MS4\account.c(66,61): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\masoud\Desktop\School\IPC-Workshops-master\IPC-Project-master\A2\MS4\account.c(166,63): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\masoud\Desktop\School\IPC-Workshops-master\IPC-Project-master\A2\MS4\account.c(328,22): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\masoud\Desktop\School\IPC-Workshops-master\IPC-Project-master\A2\MS4\account.c(328,47): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  accountTicketingUI.c
+  ticket.c
+C:\Users\masoud\Desktop\School\IPC-Workshops-master\IPC-Project-master\A2\MS4\ticket.c(718,22): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\masoud\Desktop\School\IPC-Workshops-master\IPC-Project-master\A2\MS4\ticket.c(718,48): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  Generating Code...
+C:\Users\masoud\Desktop\School\IPC-Workshops-master\IPC-Project-master\A2\MS4\ticket.c(255): warning C4701: potentially uninitialized local variable 'option' used
+C:\Users\masoud\Desktop\School\IPC-Workshops-master\IPC-Project-master\A2\MS4\accountTicketingUI.c(261): warning C4701: potentially uninitialized local variable 'ind' used
+  a2ms4.vcxproj -> C:\Users\masoud\Desktop\School\IPC-Workshops-master\IPC-Project-master\A2\MS4\Debug\a2ms4.exe
