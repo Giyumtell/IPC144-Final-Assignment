@@ -1,6 +1,8 @@
 # IPC144-Final-Assignment
 A Ticketing system using C
 
+Hello everyone my name is Masoud Torkian. i am a junior software developer and this is the start of my journey!
+
 This is the 4th and last milestone of my assignment from course IPC144
 This program is a Command line version of a Ticketing system.
 
