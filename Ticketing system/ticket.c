@@ -3,8 +3,6 @@
 	Assignment #2 Milestone #4
 	==================================================
 	Name   :Masoud Torkian
-	ID     :159042191
-	Email  :mtorkian@myseneca.ca
 	Section:ZCC
 */
 #define _CRT_SECURE_NO_WARNINGS
